@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **AndreBioCode/AndreBioCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,26 +14,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Andrés Oña</h1>
+<h1 align="center">Hi 👋, I'm Andrés </h1>
 
 <p align="center">
-  <strong>Biotechnology Engineer | eDNA & Applied Bioinformatics</strong>
+
+I am a Biotechnology Engineer specialized in environmental DNA (eDNA), metabarcoding, biodiversity monitoring, Oxford Nanopore sequencing, and bioinformatics analysis. My research interests lie at the intersection of molecular biology, ecology, and data science, with a focus on studying biodiversity and developing bioinformatics tools for biological data analysis.
+
 </p>
 
-<p align="center">
-  Specialized in environmental DNA (eDNA), metabarcoding, biodiversity monitoring,
-  Oxford Nanopore sequencing, and bioinformatics analysis.
-</p>
+<ul>
 
-<p align="center">
-  I enjoy combining molecular biology, ecology, and data science to study biodiversity
-  and develop bioinformatics tools. Currently expanding my skills in scientific software
-  development with R, Python, databases, and web technologies.
-</p>
+  <li>🔬 Associate Researcher at INABIO (National Institute of Biodiversity, Ecuador)</li>
 
-<p align="center">
-  🌱 Always learning • 🤝 Open to collaborations • 🧬 Passionate about biodiversity genomics
-</p>
+  <li>🌱 I’m currently leading a research project investigating microbial communities in high-Andean moorland soils using eDNA metabarcoding and Oxford Nanopore sequencing</li> 
+
+  <li>🧬 Interested in biodiversity genomics, microbial ecology, and environmental DNA applications</li>
+
+  <li>💻 Developing bioinformatics workflows and software tools with R, Python, and Linux</li>
+
+  <li>🤝 Open to collaborations in bioinformatics, biodiversity monitoring, genomics, and open-source scientific software</li>
+
+</ul>
 
 <h2>🧬 Bioinformatics & Technical Skills</h2>
 
@@ -42,53 +42,68 @@ Here are some ideas to get you started:
   <tr>
     <td><b>Programming</b></td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="70" height="45"/>
+      Python • R • Bash
     </td>
   </tr>
 
   <tr>
     <td><b>Bioinformatics</b></td>
     <td>
-      eDNA • Metabarcoding • QIIME2 • DADA2 • NGSpeciesID • Biopython • GenBank • SILVA
+      Environmental DNA (eDNA)<br>
+      Metabarcoding<br>
+      Taxonomic Assignment<br>
+      Biodiversity Monitoring<br>
+      Alpha & Beta Diversity Analysis
     </td>
   </tr>
 
   <tr>
-    <td><b>Sequencing</b></td>
+    <td><b>Bioinformatics Tools</b></td>
     <td>
-      Oxford Nanopore (MinION & GridION) • Library Preparation • PCR • DNA Extraction
+      QIIME2<br>
+      DADA2<br>
+      NGSpeciesID<br>
+      Biopython<br>
+      GenBank<br>
+      SILVA Database
     </td>
   </tr>
 
   <tr>
-    <td><b>Data Analysis</b></td>
+    <td><b>Sequencing Technologies</b></td>
     <td>
-      Alpha Diversity • Beta Diversity • Taxonomic Assignment • Community Analysis
+      Oxford Nanopore MinION<br>
+      Oxford Nanopore GridION<br>
+      Library Preparation<br>
+      PCR & DNA Extraction
     </td>
   </tr>
 
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Data Management</b></td>
     <td>
-      SQLite • MySQL
+      SQLite<br>
+      MySQL
     </td>
   </tr>
 
   <tr>
     <td><b>Development Tools</b></td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
-      Visual Studio Code • Jupyter Notebook • Anaconda
+      Git<br>
+      GitHub<br>
+      Visual Studio Code<br>
+      Jupyter Notebook<br>
+      Anaconda
     </td>
   </tr>
 
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
-      Linux • Ubuntu • Windows
+      Linux<br>
+      Ubuntu<br>
+      Windows
     </td>
   </tr>
 </table>
